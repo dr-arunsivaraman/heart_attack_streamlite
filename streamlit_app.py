@@ -3,7 +3,7 @@ import requests
 
 st.title("Heart Attack Prediction – API Tester (Railway)")
 
-API_URL = "https://web-production-0d637.up.railway.app/predict"
+API_URL = "https://web-production-0d637.up.railway.app/health"
 
 st.subheader("Enter values (same as dataset columns)")
 
